@@ -1,0 +1,401 @@
+h1 {
+    text-align: left;
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    margin-inline: 180px;
+    display: inline;
+}
+h2 {
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+    margin-inline-end: 150px;
+}
+h3 {
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+    margin-inline-end: 150px;
+}
+h4 {
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+    margin-inline-end: 150px;
+}
+h5 {
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+.own {
+    background-image: url(images/poultry1.jpeg);
+    background-size: cover;
+    background-position: center;
+    color: darkgreen;
+    font-size: 30px;
+    padding: 50px 50px;
+    margin-bottom: 50px;
+}
+.ready {
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: q1;
+}
+h6 {
+    text-align: center;
+    color: darkgreen;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 20px;
+}
+img {
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    width: 450px;
+    border-radius: 50px;
+}
+#box-container {
+    height: 500px;
+}
+#box-1 {
+    background-color:floralwhite;
+    border-radius: 20px;
+    position: absolute;
+    text-align: center;
+    width: 22%;
+    height: 40%;
+    padding: 10px 20px;
+    margin-top: -10%;
+    margin-inline-start: 55px;
+}
+.BF {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.AC {
+    background-color: green;
+    color: white;
+    float: left;
+    padding: 5px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+.RE {
+    color: darkgreen;
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.money {
+    text-align: left;
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+.month {
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -10%;
+    margin-right: 20px;
+}
+.start {
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    padding: 15px;
+    width: 100%;
+    margin-top: 72px;
+}
+#box-2 {
+    background-color: floralwhite;
+    border-radius: 20px;
+    position: absolute;
+    width: 22%;
+    height: 40%;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: -10%;
+    margin-inline-start: 550px;
+}
+.AE {
+    background-color: green;
+    color: white;
+    float: left;
+    padding: 5px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+.RT {
+    color: darkgreen;
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.BR {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.unit {
+    text-align: left;
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+.mon {
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -10%;
+    margin-right: 20px;
+}
+.farm {
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    padding: 15px;
+    width: 100%;
+    margin-top: 72px;
+}
+#box-3 {
+    background-color: floralwhite;
+    border-radius: 20px;
+    position: absolute;
+    text-align: center;
+    width: 22%;
+    height: 40%;
+    padding: 10px 20px;
+    margin-top: -10%;
+    margin-inline-start: 1050px;
+}
+.AT {
+    background-color: green;
+    color: white;
+    float: left;
+    padding: 5px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+.RN {
+    color: darkgreen;
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.BL {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.fund {
+    text-align: left;
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+.date {
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -10%;
+    margin-right: 20px;
+}
+.SF{
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    padding: 15px;
+    width: 100%;
+    margin-top: 72px;
+}
+.view {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 630px;
+    padding: 15px;
+    width: 15%;
+}
+.news {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgreen;
+    padding: 70px;
+    margin-top: 100px;
+}
+.newsletter {
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+.email {
+    text-align: left;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 20px;
+    width: 15%;
+}
+.sub {
+    text-align: center;
+    background-color: yellow;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 20px;
+    width: 8%;
+}
+.safe {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.your {
+    font-size: 25px;
+    color: darkgreen;
+    font-weight: bold;
+}
+.why {
+    font-size: 15px;
+    float: inline-start;
+    margin-inline-start: 20px;
+    margin-left: 400px
+}
+.myfarm {
+    font-size: 15px;
+    float: inline-start;
+    margin-inline-start: 20px;
+    margin-left: 150px
+}
+.contact {
+    font-size: 15px;
+    float: inline-start;
+    margin-inline-start: 20px;
+    margin-left: 150px
+}
+
+/*MEDIA QUERIES*/
+/*mobiles*/
+@media screen and (max-width: 480px) {
+    h1 {
+      margin-left: 50px;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 13px;
+      margin-left: 20px
+    }
+    h3 {
+      font-size: 13px;
+      margin-right: 35px;
+      margin-inline-start: -95px;
+    }
+    h4 {
+      font-size: 13px;
+      margin-inline-start: 12px;
+    }
+    h5 {
+     font-size: 13px;
+      margin-inline-start: -95px;
+    }
+    .own {
+        margin-top: 15px;
+        padding: 50px 20px;
+        font-size: 15px;
+    }
+    img {
+      float: none;
+      width: 350px;
+      margin-left: 10px;
+      margin-bottom: 60%;
+    }
+    .ready {
+        font-size: 20px;
+      }
+    #box-1 {
+      margin-top: -310%;
+      margin-right: 45px;
+      width: 60%;
+    }
+    .start {
+      margin-top: 30px;
+    }
+    #box-2 {
+      margin-top: -200%;
+      margin-left: 50px;
+      width: 60%;
+    }
+    .farm {
+      margin-top: 30px;
+    }
+    #box-3 {
+      margin-top: -90%;
+      margin-left: 50px;
+      width: 60%;
+  }
+    .SF {
+      margin-top: 30px;
+  }
+   .view { 
+     margin-top: -45%;
+     margin-left: 100px;
+     width: 50%;
+  }
+  .newsletter {
+    font-size: 45px;
+  }
+    .news {
+      padding: 25px;
+      font-size: 8px;
+  }
+    .email {
+      width: 45%;
+      padding: 17px;
+  }
+    .sub {
+      width: 30%;
+      margin-right: 10px;
+      font-size: 10px;
+      padding: 17px ;
+    }
+    .your {
+      font-size: 16px;
+    }
+    .safe {
+      font-size: 8px;
+  }
+    .why {
+    font-size: 9px;
+    float: left;
+    margin-left: 45px;  
+  }
+  .myfarm {
+    font-size: 9px;
+    float: left;
+    margin-left: 45px;
+  }
+  .contact {
+    font-size: 9px;
+    float: left;
+    margin-left: 45px;
+  }
+}
